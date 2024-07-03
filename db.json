@@ -1,258 +1,260 @@
-[
-  {
-    "id": 1,
-    "image": "images/1.jpg",
-    "name": "Kawasaki Ninja H2",
-    "brand": "Kawasaki",
-    "displacement": 998,
-    "price": 32000
-  },
-  {
-    "id": 2,
-    "image": "images/2.jpg",
-    "name": "Kawasaki Ninja ZX-10R",
-    "brand": "Kawasaki",
-    "displacement": 998,
-    "price": 18799
-  },
-  {
-    "id": 3,
-    "image": "images/3.jpg",
-    "name": "Kawasaki Ninja 400",
-    "brand": "Kawasaki",
-    "displacement": 399,
-    "price": 5899
-  },
-  {
-    "id": 4,
-    "image": "images/4.jpg",
-    "name": "Kawasaki Ninja 650",
-    "brand": "Kawasaki",
-    "displacement": 649,
-    "price": 7699
-  },
-  {
-    "id": 5,
-    "image": "images/5.jpg",
-    "name": "Kawasaki Z900",
-    "brand": "Kawasaki",
-    "displacement": 948,
-    "price": 10199
-  },
-  {
-    "id": 6,
-    "image": "images/6.jpg",
-    "name": "Kawasaki Versys-X 300",
-    "brand": "Kawasaki",
-    "displacement": 296,
-    "price": 6199
-  },
-  {
-    "id": 7,
-    "image": "images/7.jpg",
-    "name": "Kawasaki Vulcan S",
-    "brand": "Kawasaki",
-    "displacement": 649,
-    "price": 7899
-  },
-  {
-    "id": 8,
-    "image": "images/8.jpg",
-    "name": "Yamaha R1",
-    "brand": "Yamaha",
-    "displacement": 998,
-    "price": 18999
-  },
-  {
-    "id": 9,
-    "image": "images/9.jpg",
-    "name": "Yamaha MT-10 SP",
-    "brand": "Yamaha",
-    "displacement": 998,
-    "price": 20999
-  },
-  {
-    "id": 10,
-    "image": "images/10.jpg",
-    "name": "Yamaha Tracer 9 GT+",
-    "brand": "Yamaha",
-    "displacement": 890,
-    "price": 9999
-  },
-  {
-    "id": 11,
-    "image": "images/11.jpg",
-    "name": "Yamaha XMAX 300",
-    "brand": "Yamaha",
-    "displacement": 292,
-    "price": 6199
-  },
-  {
-    "id": 12,
-    "image": "images/12.jpg",
-    "name": "Honda Gold Wing Tour",
-    "brand": "Honda",
-    "displacement": 1833,
-    "price": 40000
-  },
-  {
-    "id": 13,
-    "image": "images/13.jpg",
-    "name": "Honda CBR1000RR-R Fireblade SP",
-    "brand": "Honda",
-    "displacement": 999,
-    "price": 27000
-  },
-  {
-    "id": 14,
-    "image": "images/14.jpg",
-    "name": "Honda Rebel 300",
-    "brand": "Honda",
-    "displacement": 286,
-    "price": 6099
-  },
-  {
-    "id": 15,
-    "image": "images/15.jpg",
-    "name": "Honda CB650R",
-    "brand": "Honda",
-    "displacement": 649,
-    "price": 8499
-  },
-  {
-    "id": 16,
-    "image": "images/16.jpg",
-    "name": "Honda Africa Twin",
-    "brand": "Honda",
-    "displacement": 1084,
-    "price": 26999
-  },
-  {
-    "id": 17,
-    "image": "images/17.jpg",
-    "name": "Ducati Multistrada V4 RS",
-    "brand": "Ducati",
-    "displacement": 1103,
-    "price": 11999
-  },
-  {
-    "id": 18,
-    "image": "images/18.jpg",
-    "name": "Ducati Panigale V4",
-    "brand": "Ducati",
-    "displacement": 1103,
-    "price": 18999
-  },
-  {
-    "id": 19,
-    "image": "images/19.jpg",
-    "name": "Ducati Scrambler Nightshift",
-    "brand": "Ducati",
-    "displacement": 803,
-    "price": 9899
-  },
-  {
-    "id": 20,
-    "image": "images/20.jpg",
-    "name": "Harley-Davidson Pan America 1250",
-    "brand": "Harley-Davidson",
-    "displacement": 1252,
-    "price": 28999
-  },
-  {
-    "id": 21,
-    "image": "images/21.jpg",
-    "name": "Triumph Bonneville T120",
-    "brand": "Triumph",
-    "displacement": 1200,
-    "price": 12499
-  },
-  {
-    "id": 22,
-    "image": "images/22.jpg",
-    "name": "KTM Duke 390",
-    "brand": "KTM",
-    "displacement": 373,
-    "price": 6999
-  },
-  {
-    "id": 23,
-    "image": "images/23.jpg",
-    "name": "BMW C 400 GT",
-    "brand": "BMW",
-    "displacement": 350,
-    "price": 8305
-  },
-  {
-    "id": 24,
-    "image": "images/24.jpg",
-    "name": "BMW R 1250 GS Adventure",
-    "brand": "BMW",
-    "displacement": 1254,
-    "price": 25315
-  },
-  {
-    "id": 25,
-    "image": "images/25.jpg",
-    "name": "Suzuki Hayabusa",
-    "brand": "Suzuki",
-    "displacement": 1340,
-    "price": 18000
-  },
-  {
-    "id": 26,
-    "image": "images/26.jpg",
-    "name": "Suzuki V-STROM 1050",
-    "brand": "Suzuki",
-    "displacement": 1037,
-    "price": 24000
-  },
-  {
-    "id": 27,
-    "image": "images/27.jpg",
-    "name": "Suzuki Boulevard C50T",
-    "brand": "Suzuki",
-    "displacement": 805,
-    "price": 11359
-  },
-  {
-    "id": 28,
-    "image": "images/28.jpg",
-    "name": "Suzuki Boulevard M109R",
-    "brand": "Suzuki",
-    "displacement": 1783,
-    "price": 30000
-  },
-  {
-    "id": 29,
-    "image": "images/29.jpg",
-    "name": "Harley-Davidson Sportster S",
-    "brand": "Harley-Davidson",
-    "displacement": 1250,
-    "price": 21500
-  },
-  {
-    "id": 30,
-    "image": "images/30.jpg",
-    "name": "Harley-Davidson Low Rider S",
-    "brand": "Harley-Davidson",
-    "displacement": 1923,
-    "price": 31500
-  },
-  {
-    "id": 31,
-    "image": "images/31.jpg",
-    "name": "Harley-Davidson Fat Boy 114",
-    "brand": "Harley-Davidson",
-    "displacement": 1868,
-    "price": 31950
-  },
-  {
-    "id": 32,
-    "image": "images/32.jpg",
-    "name": "Harley-Davidson Street Bob 114",
-    "brand": "Harley-Davidson",
-    "displacement": 1868,
-    "price": 31500
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "images/1.jpg",
+      "name": "Kawasaki Ninja H2",
+      "brand": "Kawasaki",
+      "displacement": 998,
+      "price": 32000
+    },
+    {
+      "id": 2,
+      "image": "images/2.jpg",
+      "name": "Kawasaki Ninja ZX-10R",
+      "brand": "Kawasaki",
+      "displacement": 998,
+      "price": 18799
+    },
+    {
+      "id": 3,
+      "image": "images/3.jpg",
+      "name": "Kawasaki Ninja 400",
+      "brand": "Kawasaki",
+      "displacement": 399,
+      "price": 5899
+    },
+    {
+      "id": 4,
+      "image": "images/4.jpg",
+      "name": "Kawasaki Ninja 650",
+      "brand": "Kawasaki",
+      "displacement": 649,
+      "price": 7699
+    },
+    {
+      "id": 5,
+      "image": "images/5.jpg",
+      "name": "Kawasaki Z900",
+      "brand": "Kawasaki",
+      "displacement": 948,
+      "price": 10199
+    },
+    {
+      "id": 6,
+      "image": "images/6.jpg",
+      "name": "Kawasaki Versys-X 300",
+      "brand": "Kawasaki",
+      "displacement": 296,
+      "price": 6199
+    },
+    {
+      "id": 7,
+      "image": "images/7.jpg",
+      "name": "Kawasaki Vulcan S",
+      "brand": "Kawasaki",
+      "displacement": 649,
+      "price": 7899
+    },
+    {
+      "id": 8,
+      "image": "images/8.jpg",
+      "name": "Yamaha R1",
+      "brand": "Yamaha",
+      "displacement": 998,
+      "price": 18999
+    },
+    {
+      "id": 9,
+      "image": "images/9.jpg",
+      "name": "Yamaha MT-10 SP",
+      "brand": "Yamaha",
+      "displacement": 998,
+      "price": 20999
+    },
+    {
+      "id": 10,
+      "image": "images/10.jpg",
+      "name": "Yamaha Tracer 9 GT+",
+      "brand": "Yamaha",
+      "displacement": 890,
+      "price": 9999
+    },
+    {
+      "id": 11,
+      "image": "images/11.jpg",
+      "name": "Yamaha XMAX 300",
+      "brand": "Yamaha",
+      "displacement": 292,
+      "price": 6199
+    },
+    {
+      "id": 12,
+      "image": "images/12.jpg",
+      "name": "Honda Gold Wing Tour",
+      "brand": "Honda",
+      "displacement": 1833,
+      "price": 40000
+    },
+    {
+      "id": 13,
+      "image": "images/13.jpg",
+      "name": "Honda CBR1000RR-R Fireblade SP",
+      "brand": "Honda",
+      "displacement": 999,
+      "price": 27000
+    },
+    {
+      "id": 14,
+      "image": "images/14.jpg",
+      "name": "Honda Rebel 300",
+      "brand": "Honda",
+      "displacement": 286,
+      "price": 6099
+    },
+    {
+      "id": 15,
+      "image": "images/15.jpg",
+      "name": "Honda CB650R",
+      "brand": "Honda",
+      "displacement": 649,
+      "price": 8499
+    },
+    {
+      "id": 16,
+      "image": "images/16.jpg",
+      "name": "Honda Africa Twin",
+      "brand": "Honda",
+      "displacement": 1084,
+      "price": 26999
+    },
+    {
+      "id": 17,
+      "image": "images/17.jpg",
+      "name": "Ducati Multistrada V4 RS",
+      "brand": "Ducati",
+      "displacement": 1103,
+      "price": 11999
+    },
+    {
+      "id": 18,
+      "image": "images/18.jpg",
+      "name": "Ducati Panigale V4",
+      "brand": "Ducati",
+      "displacement": 1103,
+      "price": 18999
+    },
+    {
+      "id": 19,
+      "image": "images/19.jpg",
+      "name": "Ducati Scrambler Nightshift",
+      "brand": "Ducati",
+      "displacement": 803,
+      "price": 9899
+    },
+    {
+      "id": 20,
+      "image": "images/20.jpg",
+      "name": "Harley-Davidson Pan America 1250",
+      "brand": "Harley-Davidson",
+      "displacement": 1252,
+      "price": 28999
+    },
+    {
+      "id": 21,
+      "image": "images/21.jpg",
+      "name": "Triumph Bonneville T120",
+      "brand": "Triumph",
+      "displacement": 1200,
+      "price": 12499
+    },
+    {
+      "id": 22,
+      "image": "images/22.jpg",
+      "name": "KTM Duke 390",
+      "brand": "KTM",
+      "displacement": 373,
+      "price": 6999
+    },
+    {
+      "id": 23,
+      "image": "images/23.jpg",
+      "name": "BMW C 400 GT",
+      "brand": "BMW",
+      "displacement": 350,
+      "price": 8305
+    },
+    {
+      "id": 24,
+      "image": "images/24.jpg",
+      "name": "BMW R 1250 GS Adventure",
+      "brand": "BMW",
+      "displacement": 1254,
+      "price": 25315
+    },
+    {
+      "id": 25,
+      "image": "images/25.jpg",
+      "name": "Suzuki Hayabusa",
+      "brand": "Suzuki",
+      "displacement": 1340,
+      "price": 18000
+    },
+    {
+      "id": 26,
+      "image": "images/26.jpg",
+      "name": "Suzuki V-STROM 1050",
+      "brand": "Suzuki",
+      "displacement": 1037,
+      "price": 24000
+    },
+    {
+      "id": 27,
+      "image": "images/27.jpg",
+      "name": "Suzuki Boulevard C50T",
+      "brand": "Suzuki",
+      "displacement": 805,
+      "price": 11359
+    },
+    {
+      "id": 28,
+      "image": "images/28.jpg",
+      "name": "Suzuki Boulevard M109R",
+      "brand": "Suzuki",
+      "displacement": 1783,
+      "price": 30000
+    },
+    {
+      "id": 29,
+      "image": "images/29.jpg",
+      "name": "Harley-Davidson Sportster S",
+      "brand": "Harley-Davidson",
+      "displacement": 1250,
+      "price": 21500
+    },
+    {
+      "id": 30,
+      "image": "images/30.jpg",
+      "name": "Harley-Davidson Low Rider S",
+      "brand": "Harley-Davidson",
+      "displacement": 1923,
+      "price": 31500
+    },
+    {
+      "id": 31,
+      "image": "images/31.jpg",
+      "name": "Harley-Davidson Fat Boy 114",
+      "brand": "Harley-Davidson",
+      "displacement": 1868,
+      "price": 31950
+    },
+    {
+      "id": 32,
+      "image": "images/32.jpg",
+      "name": "Harley-Davidson Street Bob 114",
+      "brand": "Harley-Davidson",
+      "displacement": 1868,
+      "price": 31500
+    }
+  ]
+}
