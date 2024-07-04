@@ -6,7 +6,8 @@
       "name": "Kawasaki Ninja H2",
       "brand": "Kawasaki",
       "displacement": 998,
-      "price": 32000
+      "price": 32000,
+      "description": "A supercharged supersport class motorcycle with a powerful 998cc engine."
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "name": "Kawasaki Ninja ZX-10R",
       "brand": "Kawasaki",
       "displacement": 998,
-      "price": 18799
+      "price": 18799,
+      "description": "A high-performance motorcycle designed for both track and street use."
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "name": "Kawasaki Ninja 400",
       "brand": "Kawasaki",
       "displacement": 399,
-      "price": 5899
+      "price": 5899,
+      "description": "An entry-level sportbike with agile handling and strong mid-range power."
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "name": "Kawasaki Ninja 650",
       "brand": "Kawasaki",
       "displacement": 649,
-      "price": 7699
+      "price": 7699,
+      "description": "A middleweight motorcycle that balances sporty performance and everyday usability."
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "name": "Kawasaki Z900",
       "brand": "Kawasaki",
       "displacement": 948,
-      "price": 10199
+      "price": 10199,
+      "description": "A versatile naked bike with a powerful engine and modern styling."
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "name": "Kawasaki Versys-X 300",
       "brand": "Kawasaki",
       "displacement": 296,
-      "price": 6199
+      "price": 6199,
+      "description": "An adventure bike with long-travel suspension and lightweight design."
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "name": "Kawasaki Vulcan S",
       "brand": "Kawasaki",
       "displacement": 649,
-      "price": 7899
+      "price": 7899,
+      "description": "A cruiser with modern styling and an engine that offers a smooth, responsive ride."
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "name": "Yamaha R1",
       "brand": "Yamaha",
       "displacement": 998,
-      "price": 18999
+      "price": 18999,
+      "description": "A top-tier superbike with advanced electronics and high-revving performance."
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "name": "Yamaha MT-10 SP",
       "brand": "Yamaha",
       "displacement": 998,
-      "price": 20999
+      "price": 20999,
+      "description": "A hyper naked bike with adjustable suspension and an aggressive design."
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "name": "Yamaha Tracer 9 GT+",
       "brand": "Yamaha",
       "displacement": 890,
-      "price": 9999
+      "price": 9999,
+      "description": "A versatile sport-touring bike with advanced electronics and comfortable ergonomics."
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "name": "Yamaha XMAX 300",
       "brand": "Yamaha",
       "displacement": 292,
-      "price": 6199
+      "price": 6199,
+      "description": "A stylish and practical scooter designed for urban commuting."
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "name": "Honda Gold Wing Tour",
       "brand": "Honda",
       "displacement": 1833,
-      "price": 40000
+      "price": 40000,
+      "description": "A luxury touring bike with a smooth engine and advanced features for long-distance rides."
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "name": "Honda CBR1000RR-R Fireblade SP",
       "brand": "Honda",
       "displacement": 999,
-      "price": 27000
+      "price": 27000,
+      "description": "A track-focused superbike with a high-revving engine and race-ready components."
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "name": "Honda Rebel 300",
       "brand": "Honda",
       "displacement": 286,
-      "price": 6099
+      "price": 6099,
+      "description": "A compact cruiser with a low seat height and a relaxed riding position."
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "name": "Honda CB650R",
       "brand": "Honda",
       "displacement": 649,
-      "price": 8499
+      "price": 8499,
+      "description": "A middleweight naked bike with a stylish design and balanced performance."
     },
     {
       "id": 16,
@@ -126,7 +141,8 @@
       "name": "Honda Africa Twin",
       "brand": "Honda",
       "displacement": 1084,
-      "price": 26999
+      "price": 26999,
+      "description": "An adventure bike designed for both on-road and off-road riding with advanced electronics."
     },
     {
       "id": 17,
@@ -134,7 +150,8 @@
       "name": "Ducati Multistrada V4 RS",
       "brand": "Ducati",
       "displacement": 1103,
-      "price": 11999
+      "price": 11999,
+      "description": "A high-performance adventure bike with a powerful V4 engine and advanced features."
     },
     {
       "id": 18,
@@ -142,7 +159,8 @@
       "name": "Ducati Panigale V4",
       "brand": "Ducati",
       "displacement": 1103,
-      "price": 18999
+      "price": 18999,
+      "description": "A top-tier superbike with a V4 engine, advanced electronics, and track-focused design."
     },
     {
       "id": 19,
@@ -150,7 +168,8 @@
       "name": "Ducati Scrambler Nightshift",
       "brand": "Ducati",
       "displacement": 803,
-      "price": 9899
+      "price": 9899,
+      "description": "A stylish and versatile bike with a retro design and modern features."
     },
     {
       "id": 20,
@@ -158,7 +177,8 @@
       "name": "Harley-Davidson Pan America 1250",
       "brand": "Harley-Davidson",
       "displacement": 1252,
-      "price": 28999
+      "price": 28999,
+      "description": "An adventure touring bike with a powerful engine and advanced electronics."
     },
     {
       "id": 21,
@@ -166,7 +186,8 @@
       "name": "Triumph Bonneville T120",
       "brand": "Triumph",
       "displacement": 1200,
-      "price": 12499
+      "price": 12499,
+      "description": "A classic British motorcycle with modern performance and vintage styling."
     },
     {
       "id": 22,
@@ -174,7 +195,8 @@
       "name": "KTM Duke 390",
       "brand": "KTM",
       "displacement": 373,
-      "price": 6999
+      "price": 6999,
+      "description": "A lightweight naked bike with sharp handling and a punchy engine."
     },
     {
       "id": 23,
@@ -182,7 +204,8 @@
       "name": "BMW C 400 GT",
       "brand": "BMW",
       "displacement": 350,
-      "price": 8305
+      "price": 8305,
+      "description": "A premium scooter designed for comfortable urban commuting and longer rides."
     },
     {
       "id": 24,
@@ -190,7 +213,8 @@
       "name": "BMW R 1250 GS Adventure",
       "brand": "BMW",
       "displacement": 1254,
-      "price": 25315
+      "price": 25315,
+      "description": "A versatile adventure bike with advanced features and a powerful boxer engine."
     },
     {
       "id": 25,
@@ -198,7 +222,8 @@
       "name": "Suzuki Hayabusa",
       "brand": "Suzuki",
       "displacement": 1340,
-      "price": 18000
+      "price": 18000,
+      "description": "A legendary sportbike known for its top speed and powerful performance."
     },
     {
       "id": 26,
@@ -206,7 +231,8 @@
       "name": "Suzuki V-STROM 1050",
       "brand": "Suzuki",
       "displacement": 1037,
-      "price": 24000
+      "price": 24000,
+      "description": "A versatile adventure bike with a powerful engine and advanced electronics."
     },
     {
       "id": 27,
@@ -214,7 +240,8 @@
       "name": "Suzuki Boulevard C50T",
       "brand": "Suzuki",
       "displacement": 805,
-      "price": 11359
+      "price": 11359,
+      "description": "A classic cruiser with a retro design and modern features for comfortable rides."
     },
     {
       "id": 28,
@@ -222,7 +249,8 @@
       "name": "Suzuki Boulevard M109R",
       "brand": "Suzuki",
       "displacement": 1783,
-      "price": 30000
+      "price": 30000,
+      "description": "A powerful cruiser with a muscular design and strong performance."
     },
     {
       "id": 29,
@@ -230,7 +258,8 @@
       "name": "Harley-Davidson Sportster S",
       "brand": "Harley-Davidson",
       "displacement": 1250,
-      "price": 21500
+      "price": 21500,
+      "description": "A modern cruiser with a powerful engine and distinctive styling."
     },
     {
       "id": 30,
@@ -238,7 +267,8 @@
       "name": "Harley-Davidson Low Rider S",
       "brand": "Harley-Davidson",
       "displacement": 1923,
-      "price": 31500
+      "price": 31500,
+      "description": "A powerful cruiser with classic styling and modern performance."
     },
     {
       "id": 31,
@@ -246,7 +276,8 @@
       "name": "Harley-Davidson Fat Boy 114",
       "brand": "Harley-Davidson",
       "displacement": 1868,
-      "price": 31950
+      "price": 31950,
+      "description": "An iconic cruiser with a powerful engine and a bold, muscular design."
     },
     {
       "id": 32,
@@ -254,7 +285,8 @@
       "name": "Harley-Davidson Street Bob 114",
       "brand": "Harley-Davidson",
       "displacement": 1868,
-      "price": 31500
+      "price": 31500,
+      "description": "A stripped-down cruiser with modern performance and a minimalist design."
     }
   ]
 }
